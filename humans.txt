@@ -2,9 +2,8 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
     <name> -- <role> -- <twitter>
-
+    Tony Dunsworth -- Developer -- @trdusworth
 # THANKS
 
     <name>
